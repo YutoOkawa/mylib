@@ -1,0 +1,13 @@
+{
+  "name": "mylib",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib.js",
+  "private": true,
+  "scripts": {},
+  "dependencies": {
+    "path": "^0.12.7"
+  },
+  "author": "",
+  "license": "ISC"
+}
